@@ -292,24 +292,6 @@ We welcome contributions! Please follow these steps:
 - Update documentation for changes
 - Ensure backward compatibility
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Tata Motors** for providing the risk analysis dataset
-- **NewsAPI.ai** for live news data
-- **Google Gemini** for AI-powered analysis
-- **Streamlit** for the dashboard framework
-- **Hugging Face** for transformer models
-
-## 📞 Support
-
-For support and questions:
-- **GitHub Issues**: [Create an issue](https://github.com/sayalihirkar/TataMotorsHackathon/issues)
-- **Email**: [Your email]
-- **Documentation**: Check the `docs/` folder for detailed guides
 
 ## 🎉 Hackathon Submission
 
@@ -320,8 +302,5 @@ This project was developed for the **Tata Motors Hackathon** and demonstrates:
 - ✅ **Production-Ready Code** with proper error handling
 - ✅ **AI Integration** for enhanced search and analysis
 
----
-
-**Made with ❤️ for Tata Motors Risk Analysis**
 
 *Last updated: January 2025*
